@@ -1,40 +1,40 @@
 # HireMe - Job Portal Web Application 🎯
 
-**HireMe** is a web-based job portal designed to help **students** find and apply for job opportunities, while also enabling **recruiters** to post job listings and interact with potential candidates. 
+**HireMe** is a web-based job portal designed to help **students** find and apply for job opportunities, while enabling **recruiters** to post job listings and interact with potential candidates.
 
-This full-stack application is built with **Flask** as the backend, **HTML**, **CSS**, and **JavaScript** for the frontend, and **SQLite3** as the database. The platform features secure authentication via **Flask-Login**, ensuring user privacy and safety.
+This full-stack application is built with **Flask** for the backend, **HTML**, **CSS**, and **JavaScript** for the frontend, and **SQLite3** for the database. The platform incorporates secure authentication via **Flask-Login**, ensuring user privacy and safety.
 
 ---
 
 ## 🧑‍🎓 Student Functionality
 
-1. **Register and Log In Securely**  
-   Students can register with their personal details and log in using a secure authentication system. Passwords are hashed and stored securely.
+1. **Register & Log In Securely**  
+   - Students can securely register and log in using hashed passwords stored safely.
 
-2. **View Available Job Listings**  
-   Once logged in, students can browse through a list of available job postings. These listings include details like job title, description, salary, and required qualifications.
+2. **Browse Job Listings**  
+   - View available job postings with details such as job title, description, salary, and required qualifications.
 
 3. **Apply to Jobs**  
-   Students can apply for jobs they’re interested in. The system keeps track of their applications and allows them to manage or withdraw them if necessary.
+   - Students can apply for jobs directly through the platform. They can manage, update, or withdraw applications as needed.
 
-4. **Manage Personal Profile and Applications**  
-   Students can view and update their personal information, upload resumes, and monitor the status of their job applications (e.g., pending, accepted, or rejected).
+4. **Manage Profile & Applications**  
+   - Update personal details, upload resumes, and track the status of applications (e.g., pending, accepted, rejected).
 
 ---
 
 ## 🧑‍💼 Recruiter Functionality
 
-1. **Register and Log In as a Recruiter**  
-   Recruiters have their own dedicated login and registration system, separate from students, with distinct access and controls.
+1. **Register & Log In as a Recruiter**  
+   - Recruiters have their own login system to ensure distinct access control.
 
 2. **Post Job Opportunities**  
-   Recruiters can create detailed job postings including role description, required qualifications, salary range, and location.
+   - Create detailed job postings with role descriptions, required qualifications, salary range, and location.
 
-3. **View Student Applications**  
-   Recruiters can view and manage applications from students, including access to their resumes and profiles.
+3. **View & Manage Student Applications**  
+   - Review student applications, access resumes, and evaluate profiles.
 
-4. **Contact Selected Candidates**  
-   Recruiters can reach out to applicants directly through the platform for further steps such as interviews or discussions.
+4. **Contact Candidates**  
+   - Direct communication with selected candidates via the platform for further steps such as interviews.
 
 ---
 
@@ -42,18 +42,18 @@ This full-stack application is built with **Flask** as the backend, **HTML**, **
 
 - **Backend**: Python, Flask  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Database**: SQLite3 (can be upgraded to MySQL/PostgreSQL)  
+- **Database**: SQLite3 (easily upgradable to MySQL/PostgreSQL)  
 - **Authentication**: Flask-Login  
 
 ---
 
 ## 💡 Skills Required
 
-- HTML  
-- CSS  
-- JavaScript  
-- SQL  
-- Python  
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **SQL**
+- **Python**
 
 ---
 
@@ -64,23 +64,24 @@ This full-stack application is built with **Flask** as the backend, **HTML**, **
 
 ---
 
-🌐 Project Web Pages
-index – Homepage
+## 🌐 Project Pages
 
-- student_register – Student Registration
-- student_login – Student Login
-- student_home – Student Dashboard
-- student_reset_password – Student Reset Password
-- recruiter_register – Recruiter Registration
-- recruiter_login – Recruiter Login
-- recruiter_home – Recruiter Dashboard
-- create_job – Job Posting Page
-- job_details – Job Description for Students
-- recruiter_job_details – Job Description for Recruiters
-- recruiter_forgot_password – Recruiter Password Reset
-- report – Report Generation / Summary
-- database_setup – DB Initialization Script
+- **index** – Homepage
+- **student_register** – Student Registration Page
+- **student_login** – Student Login Page
+- **student_home** – Student Dashboard
+- **student_reset_password** – Student Password Reset
+- **recruiter_register** – Recruiter Registration Page
+- **recruiter_login** – Recruiter Login Page
+- **recruiter_home** – Recruiter Dashboard
+- **create_job** – Job Posting Page
+- **job_details** – Job Description for Students
+- **recruiter_job_details** – Job Description for Recruiters
+- **recruiter_forgot_password** – Recruiter Password Reset
+- **report** – Report Generation/Job Summary
+- **database_setup** – DB Initialization Script
 
+---
 
 ## 📁 Project Setup
 
