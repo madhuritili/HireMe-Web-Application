@@ -92,9 +92,10 @@ cd HireMe
 ```
 
 ### 2. Create and activate virtual environment
+
 - Ubuntu/macOS:
 ``` python3 -m venv venv
-source venv/bin/activate
+``` source venv/bin/activate
 ```
 - winodws
 ```bash
