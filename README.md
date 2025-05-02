@@ -83,7 +83,8 @@ This full-stack application is built with **Flask** for the backend, **HTML**, *
 
 ---
 
-## 📁 Project Setup
+## 📁 Project Setup Guide
+Follow the steps below to set up and run the HireMe application locally.
 
 ### 1. Clone the repository
 ```bash
@@ -91,7 +92,7 @@ git clone https://github.com/Praniiiii/HireMe.git
 cd HireMe
 ```
 
-### 2. Create and activate virtual environment
+### 2. Set Up a Virtual Environment
 
 - Ubuntu/macOS:
 ``` bash
@@ -106,7 +107,7 @@ venv\Scripts\activate
 
 ```
 
-### 3. Install dependencies
+### 3. Install Required Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -119,7 +120,9 @@ python app.py
 ```
 
 ### 5. Visit in browser
-Open your browser and go to: http://127.0.0.1:5000
+Navigate to the following URL in your web browser:
+
+🔗 http://127.0.0.1:5000
 
 ---
 
