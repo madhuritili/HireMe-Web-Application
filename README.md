@@ -92,10 +92,15 @@ cd HireMe
 ```
 
 ### 2. Create and activate virtual environment
-
+- Ubuntu/macOS:
+``` python3 -m venv venv
+source venv/bin/activate
+```
+- winodws
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate
+
 ```
 
 ### 3. Install dependencies
