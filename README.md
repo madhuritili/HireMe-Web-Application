@@ -130,48 +130,52 @@ Navigate to the following URL in your web browser:
 
 ### Home Page
 
-![image](https://github.com/user-attachments/assets/f236c92a-e9db-41ae-aded-5fa15d068646)
+![WhatsApp Image 2025-04-15 at 11 57 06_d0b1f372](https://github.com/user-attachments/assets/5d5cdf8d-1713-47c4-b8f5-3a143327f470)
 
 ### Student Registration
 
-![image](https://github.com/user-attachments/assets/2a91ac72-2d99-4cf4-ad6a-2ba0f6773dce)
+![WhatsApp Image 2025-04-15 at 11 57 06_d6d0ef72](https://github.com/user-attachments/assets/1ae2e154-04d8-4b88-a270-90d933fb9dab)
 
 ### Student Login
 
-![image](https://github.com/user-attachments/assets/3d23d822-e83a-4c6d-b063-f097ff8eae39)
+![WhatsApp Image 2025-04-15 at 11 57 07_dd882a9a](https://github.com/user-attachments/assets/5da6ce17-4535-4a1c-94e9-0f3284bd631a)
 
 ### Student Dashboard
 
-![image](https://github.com/user-attachments/assets/3faf4c5d-f441-45a7-9db2-f861b5a47845)
+![WhatsApp Image 2025-04-15 at 11 57 08_33dc3045](https://github.com/user-attachments/assets/e1af1723-7801-4e90-abf6-2aa8c00af80c)
 
 ### Student_reset_password
 
-![image](https://github.com/user-attachments/assets/d77621c4-bd38-4417-a894-20289223f92d)
+![WhatsApp Image 2025-04-15 at 11 57 07_ae9a39fb](https://github.com/user-attachments/assets/3951f66e-9260-4698-9367-dd0e35817e09)
 
 ### Recruiter Registration
 
-![image](https://github.com/user-attachments/assets/a811c789-d9f4-4499-b454-b33332cd597f)
+![WhatsApp Image 2025-04-15 at 11 57 09_63e29f2c](https://github.com/user-attachments/assets/cdda7f38-3f82-4781-aa2f-71601d514e39)
 
 ### Recruiter Login
 
-![image](https://github.com/user-attachments/assets/dbfa37b8-a592-45f7-80b0-d0009e8318b1)
+![WhatsApp Image 2025-04-15 at 11 57 08_9946ae65](https://github.com/user-attachments/assets/26b6f9a9-b1e7-485c-b349-15bb95420e96)
 
 ### Recruiter Password Reset
 
-![image](https://github.com/user-attachments/assets/fb8803d5-b617-46e9-81cd-05f16402bc0b)
+![WhatsApp Image 2025-04-15 at 11 57 09_2e85f11c](https://github.com/user-attachments/assets/82c73a18-eacc-49d6-bdaa-9bd09696d17e)
+
+### Recruiter Home Page
+
+![WhatsApp Image 2025-04-15 at 11 57 10_fe40c7ad](https://github.com/user-attachments/assets/01c1d315-1f24-43a6-92a2-0260b3531245)
 
 ### create_job – Job Posting Page
 
-![image](https://github.com/user-attachments/assets/76596418-ec83-43b6-a18c-06a8cf068d14)
+![WhatsApp Image 2025-04-15 at 11 57 10_17704990](https://github.com/user-attachments/assets/0141e565-730b-4bf0-b665-e1ad02faefbe)
 
 ### Job Description for Recruiters
 
-![image](https://github.com/user-attachments/assets/3317133a-4cd5-4d62-9c52-0bbe04b7a987)
+![WhatsApp Image 2025-04-15 at 11 57 08_a12e06b0](https://github.com/user-attachments/assets/d5879c23-a442-4aba-98e4-5c1c975f36ef)
 
 
 ### Report Generation / Summary
 
-![image](https://github.com/user-attachments/assets/f4362073-67aa-4b50-861d-506d59512d9f)
+![WhatsApp Image 2025-04-15 at 11 57 10_1bcaa783](https://github.com/user-attachments/assets/62bffb38-d19d-4050-87a9-32855fecd932)
 
 
 ---
