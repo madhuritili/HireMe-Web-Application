@@ -5,6 +5,8 @@ def add_job(job_role, company, package, job_description):
     cursor2.execute('''INSERT INTO jobs (job_role, company, package, job_description)VALUES (?, ?, ?, ?)''', (job_role, company, package, job_description))
     conn2.commit()
     conn2.close()
+    
+
 def delete_job_by_id(job_id):
     try:
         conn = sqlite3.connect('db/hireme.db')
@@ -21,5 +23,5 @@ def delete_job_by_id(job_id):
         print(f"Error deleting job: {e}")
         return False
     finally:
-        conn.close()    
-    
+        conn.close()
+

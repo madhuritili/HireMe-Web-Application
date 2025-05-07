@@ -15,6 +15,8 @@ from flask_cors import CORS
 from reportlab.pdfgen import canvas
 from flask import send_file
 from flask import Flask, render_template, request, redirect, session, url_for, flash
+from pythonfiles.create_job import add_job
+from pythonfiles.create_job import delete_job_by_id
 import os
 
 app = Flask(__name__)
@@ -83,13 +85,14 @@ def api_add_job():
 @app.route('/create_job_page')
 def create_job_page():
     return render_template('create_job.html')
+
 @app.route('/api/job_details/<int:job_id>', methods=['DELETE'])
 def delete_job(job_id):
     success = delete_job_by_id(job_id)  # Call the function to delete the job from the database
     if success:
         return jsonify({'message': 'Job deleted successfully'}), 200
     else:
-        return jsonify({'message': 'Job not found or could not be deleted'}), 404
+        return jsonify({'message': 'Job not found or could not be deleted'}), 404
 
 
 # +++++++++++++++++++++++++++ END OF CREATE JOB PAGE ++++++++++++++++++++++++++
