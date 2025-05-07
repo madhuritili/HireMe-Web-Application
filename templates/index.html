@@ -4,16 +4,22 @@
   <meta charset='UTF-8'>
   <meta name='viewport' content='width=device-width,initial-scale=1.0'>
   <title>HireMe</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel='stylesheet' href="{{ url_for('static',filename='css/index.css') }}">
 </head> 
 <body>
   <header>
     <h1>HireMe</h1>
-    <div class='login-buttons'>
-      <button id='student-login-btn' url="{{ url_for('student_login') }}">Student Login</button>
-     
-      <button id='recruiter-login-btn' url="{{ url_for('recruiter_login') }}">Recruiter Login</button>
-    </div>
+   
+<nav class="login-buttons">
+  <button onclick="location.href='{{ url_for('student_login') }}'">
+    <i class="fas fa-user-graduate"></i> Student Login
+  </button>
+  <button onclick="location.href='{{ url_for('recruiter_login') }}'">
+    <i class="fas fa-briefcase"></i> Recruiter Login
+  </button>
+</nav>
+
   </header>
   <main>
     <section class='hero'>
